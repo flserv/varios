@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="360"
+   height="160.5"
+   version="1.1"
+   style="font-family:'Comic Sans MS'; font-size:11.9px; fill:#0065a4; stroke-width:1px;"
+   id="svg68"
+   sodipodi:docname="analog-digital.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata72">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview70"
+     showgrid="false"
+     inkscape:zoom="2.467017"
+     inkscape:cx="164.78124"
+     inkscape:cy="62.753627"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g66" />
+  <defs
+     id="defs2" />
+  <g
+     transform="translate(-132.996,-941.117)"
+     id="g66">
+    <path
+       transform="translate(132.996,941.117)"
+       style="fill:none; stroke:#ef2929; stroke-width:1.31;"
+       d="M 0.5 82.4 C 0.5 82.4 19.9 106.5 37.1 112.7 C 54.4 119 64 121.2 84.4 117.2 C 104.8 113.2 118.9 101.2 128.9 87.3 C 138.9 73.5 169.9 13.5 198.8 10.4 C 216.5 8.4 232.3 31.3 246.8 58.9 "
+       id="path4" />
+    <rect
+       x="262.6"
+       y="1012"
+       width="15.9"
+       height="9.2"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.67;"
+       id="rect6" />
+    <rect
+       x="328.5"
+       y="952.8"
+       width="15.9"
+       height="68.5"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect8" />
+    <rect
+       x="394.4"
+       y="-1051.2"
+       width="15.9"
+       height="29.9"
+       transform="scale(1,-1)"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect10" />
+    <rect
+       x="344.9"
+       y="962.1"
+       width="15.9"
+       height="59.1"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect12" />
+    <rect
+       x="361.4"
+       y="984.1"
+       width="15.9"
+       height="37.2"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect14" />
+    <rect
+       x="312"
+       y="955.6"
+       width="15.9"
+       height="65.6"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect16" />
+    <rect
+       x="295.5"
+       y="968.4"
+       width="15.9"
+       height="52.8"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect18" />
+    <rect
+       x="279"
+       y="988.6"
+       width="15.9"
+       height="32.7"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.7;"
+       id="rect20" />
+    <rect
+       x="377.9"
+       y="1014.5"
+       width="15.9"
+       height="7"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.76;"
+       id="rect22" />
+    <rect
+       x="410.8"
+       y="-1079.7"
+       width="15.9"
+       height="58.4"
+       transform="scale(1,-1)"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect24" />
+    <rect
+       x="427.3"
+       y="-1088.9"
+       width="15.9"
+       height="67.7"
+       transform="scale(1,-1)"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect26" />
+    <rect
+       x="443.8"
+       y="-1071.1"
+       width="15.9"
+       height="49.8"
+       transform="scale(1,-1)"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect28" />
+    <rect
+       x="460.3"
+       y="-1032.4"
+       width="15.9"
+       height="11.1"
+       transform="scale(1,-1)"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect30" />
+    <rect
+       x="476.7"
+       y="990.6"
+       width="15.9"
+       height="30.7"
+       style="fill:#19aeff; fill-opacity:0.17; stroke:#007ad2; stroke-width:0.69;"
+       id="rect32" />
+    <text
+       x="264.1"
+       y="1009.2"
+       transform="scale(0.999821,1.00018)"
+       id="text34">12</text>
+    <text
+       x="329.5"
+       y="949.9"
+       transform="scale(0.999821,1.00018)"
+       id="text36">82</text>
+    <text
+       x="313.1"
+       y="953.8"
+       transform="scale(0.999821,1.00018)"
+       id="text38">78</text>
+    <text
+       x="295.8"
+       y="965.1"
+       transform="scale(0.999822,1.00018)"
+       id="text40">63</text>
+    <text
+       x="278.6"
+       y="986"
+       transform="scale(0.999822,1.00018)"
+       id="text42">39</text>
+    <text
+       x="345.5"
+       y="959.9"
+       transform="scale(0.999821,1.00018)"
+       id="text44">70</text>
+    <text
+       x="362.7"
+       y="982.8"
+       transform="scale(0.999821,1.00018)"
+       id="text46">44</text>
+    <text
+       x="382"
+       y="1010.9"
+       transform="scale(0.999821,1.00018)"
+       id="text48">9</text>
+    <text
+       x="390.8"
+       y="1061.8"
+       transform="scale(0.999822,1.00018)"
+       id="text50">-36</text>
+    <text
+       x="406"
+       y="1092"
+       transform="scale(0.999822,1.00018)"
+       id="text52">-69</text>
+    <text
+       x="425.7"
+       y="1100.9"
+       transform="scale(0.999821,1.00018)"
+       id="text54">-80</text>
+    <text
+       x="443.4"
+       y="1080.6"
+       transform="scale(0.999821,1.00018)"
+       id="text56">-59</text>
+    <text
+       x="462.2"
+       y="1043.4"
+       transform="scale(0.999822,1.00018)"
+       id="text58">-14</text>
+    <text
+       x="477.6"
+       y="988.3"
+       transform="scale(0.999822,1.00018)"
+       id="text60">42</text>
+    <text
+       x="152.79874"
+       y="1036.9014"
+       transform="scale(0.99982103,1.000179)"
+       style="font-size:22.70000076px;font-family:Verdana;fill:#ef2929"
+       id="text62">
+      <tspan
+         style="font-size:20.66666667px"
+         id="tspan74">Analógico</tspan>
+    </text>
+    <text
+       x="393.60001"
+       y="984.40002"
+       transform="scale(0.999822,1.00018)"
+       style="font-size:22.70000076px;font-family:Verdana"
+       id="text64">Digital</text>
+  </g>
+</svg>
