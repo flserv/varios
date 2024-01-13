@@ -1,0 +1,5 @@
+= Prueba de AsciiDoc en GitHub
+Francisco L. Servén flserv@yahoo.es
+
+== Descripción
+Esto es una prueba de cómo utilizar el editor de github pera escribir un archivo de texto plano.
